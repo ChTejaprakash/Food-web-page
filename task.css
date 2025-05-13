@@ -1,0 +1,103 @@
+.header{
+    height:45px;
+    /* border:2px solid red; */
+    padding-top:20px;
+    position:fixed;
+    z-index: 1;
+    margin-top: -10px;
+    background-color: white;
+    width:99%;
+    box-shadow:inset;
+}
+.name{
+    padding-left:20px;
+}
+
+.about{
+    padding-left:1100px;
+}
+.menu{
+    padding-left:20px;
+}
+.contact{
+    padding-left: 20px;
+}
+.image1{
+    position:relative;
+    /* margin-top:100px; */
+    
+}
+.image-name{
+    position:absolute;
+    padding-left: 20px;
+    padding-top:620px;
+    font-size: 50px;
+
+}
+.image2_div{
+  margin-left:220px; 
+  display: inline-block;
+  margin-top:70px;
+}
+.image2{
+    border-radius:5px;
+    opacity:0.7;
+    width:500px;
+}
+.info1{
+width:500px;
+display: inline-block;
+margin-left:50px;
+/* border:2px solid red; */
+/* margin-top:-20px; */
+/* height:500px; */
+}
+.p1,.p2{
+    text-align: justify;
+}
+.H1,.H4{
+    text-align: center;
+}
+.break{
+    margin-top:70px;
+    opacity:0.4;
+    width:80%;
+}
+.info2{
+    width:500px;
+    margin-left: 200px;
+    /* border:2px solid red; */
+    display:inline-block;
+}
+.info2 p{
+    opacity: 0.7;
+}
+.image3{
+    margin-top:50px;
+    display:inline-block;
+    margin-left: 40px;
+}
+.image3 img{
+    border-radius: 5px;
+    opacity:0.7;
+}
+.details{
+    width:80%;
+    /* border:2px solid red; */
+    margin-left:150px;
+    margin-top:100px;
+}
+.details h1{
+    padding-left: 30px;
+}
+.details p{
+    padding-top:20px;
+}
+.details h3{
+    opacity: 0.7;
+}
+.form,.people,.times,.message{
+    width:100%;
+    border:none;
+    height: 50px;
+}
